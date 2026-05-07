@@ -1,2 +1,4 @@
 mountpoints:
-  /: https://drive.google.com/drive/u/0/folders/1eENhLgjN35fJXZTrER09ZGWnTYba9qZi
+  /: url: "https://author-p130360-e1272151.adobeaemcloud.com/bin/franklin.delivery/adobe-rnd/aem-boilerplate-xwalk/main"
+    type: "markup"
+    suffix: ".html"
